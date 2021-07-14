@@ -2,7 +2,6 @@
   "name": "multikart-backend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://react.pixelstrap.com/multikart-admin/",
   "dependencies": {
     "availity-reactstrap-validation": "^2.6.0",
     "bootstrap": "^4.3.1",
@@ -39,7 +38,7 @@
     "slick-carousel": "^1.8.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "PORT=3001 react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
