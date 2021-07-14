@@ -1,4 +1,4 @@
-# SWE Project Front End
+# SWE Project Admin Portal
 
 SWE Admin Portal is a React JS application which written by Javascript/JavascriptReact.
 
